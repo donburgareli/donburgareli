@@ -14,13 +14,13 @@ I'm interested in technology, coding, and problem-solving. I enjoy exploring new
 
 ## Projects
 Here are some of the projects I've worked on:
-1. [wise - An Pair-Programming AI Tool](https://github.com/donburgareli/wise-pair-programming-tool)
+1. [wise - An Pair-Programming AI Tool](https://github.com/wisexld-dev/wise-pair-programming-tool)
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=donburgareli&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisexld-dev&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donburgareli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisexld-dev&layout=compact&theme=radical)
 
 <!-- 
 ## Connect with Me
